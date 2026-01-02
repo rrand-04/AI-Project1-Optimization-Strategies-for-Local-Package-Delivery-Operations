@@ -36,7 +36,7 @@ Goal: minimize total distance traveled by all vehicles while respecting constrai
 ## How to Run
 ```bash
 # 1) (Optional) Create and activate a virtual environment
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate   # Mac/Linux
 # venv\Scripts\activate    # Windows
 
